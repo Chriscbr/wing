@@ -1441,7 +1441,7 @@ Check failures on the method and retrieve errors if any.
 
 ### BucketProps <a name="BucketProps" id="@winglang/sdk.cloud.BucketProps"></a>
 
-Properties for `Bucket`.
+Properties for `Buckets`.
 
 #### Initializer <a name="Initializer" id="@winglang/sdk.cloud.BucketProps.Initializer"></a>
 
