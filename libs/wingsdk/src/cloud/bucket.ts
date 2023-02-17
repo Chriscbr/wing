@@ -8,7 +8,7 @@ import { Code, Resource } from "../core";
 export const BUCKET_TYPE = "wingsdk.cloud.Bucket";
 
 /**
- * Properties for `Bucket`.
+ * Properties for `Buckets`.
  */
 export interface BucketProps {
   /**
