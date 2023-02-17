@@ -3,7 +3,7 @@ import { Polycons } from "polycons";
 import { Code, Resource } from "../core";
 
 /**
- * Global identifier for `Bucket`.
+ * Global identifier for `Buckets`.
  */
 export const BUCKET_TYPE = "wingsdk.cloud.Bucket";
 
